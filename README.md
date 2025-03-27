@@ -1,6 +1,6 @@
 # Eternal Clash
 
-![Eternal Clash](record.gif)
+<img src="https://github.com/aabolfazl/eternal-clash/raw/main/record.gif" width="300"/>
 
 This project is built using C++, Kotlin, and Java, and is managed with Gradle. It includes various components and dependencies, such as SDL (Simple DirectMedia Layer) for handling multimedia, input, and window management.
 
